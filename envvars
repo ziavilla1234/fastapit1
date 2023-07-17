@@ -1,0 +1,3 @@
+DATABASE_NAME="./testdb1.db"
+secret_key="zia"
+access_token_expire_mins=30
